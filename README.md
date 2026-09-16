@@ -1,8 +1,10 @@
 2026/09/16 17:41:49
 
-<!-- notify 1/2 · bysW1b2F -->
-## Notification 1/2
-Round: Round 1
-To: morales928@yahoo.com, morales_elma@yahoo.com
-At: 2026-09-16 17:41:59
-Id: bysW1b2F
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: morales_gm2000@yahoo.com, moralesamparo@yahoo.com
+At: 2026-09-16 17:42:07
+Id: FQQYmKhn
